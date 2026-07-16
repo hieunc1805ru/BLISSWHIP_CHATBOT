@@ -1,0 +1,6 @@
+{
+    "name": "blisswhip-chatbot",
+    "version": "1.0.0",
+    "private": true,
+    "description": "BlissWhip customer support chatbot API + embeddable widget, deployed on Vercel."
+}
